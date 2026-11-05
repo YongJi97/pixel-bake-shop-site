@@ -1,0 +1,2 @@
+# TODO: replace with the authorized sellers line from AdMob (Apps → app-ads.txt).
+# Until then this file is a placeholder so the path exists at the site root.
